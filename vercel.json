@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "https://inkadev-api.koffiesoft.com/$1" }
+  ]
+}
